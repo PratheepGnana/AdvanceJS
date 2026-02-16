@@ -1,0 +1,7 @@
+Advanced Js Course
+- Ternary Operator 
+- Swtich Operator
+- Object Destructuring
+- SetTimeout
+- ClearTimeOut
+- SetInterval
