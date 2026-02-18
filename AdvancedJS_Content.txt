@@ -5,3 +5,6 @@ Advanced Js Course
 - SetTimeout
 - ClearTimeOut
 - SetInterval
+- The Event Loop
+- Import Export : Named
+- Import Export : Default
